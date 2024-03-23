@@ -7,6 +7,9 @@ This GUI program allows users to encrypt and decrypt image files within a specif
 - Decrypt previously encrypted image files using the same password.
 - Supports various image formats such as JPG, PNG, Gif etc.
 
+## Installation
+Download the exe or the zip (and extract), then run the file - no other dependencies needed
+
 ## Usage
 
 1. **Encrypt Images:**
