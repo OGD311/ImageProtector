@@ -1,6 +1,6 @@
 # ImageProtector
 GUI app to encrypt and decrypt image files within a specified folder using a password. Supported image formats include JPG, PNG, Gif and others.
-![image](https://github.com/OGD311/ImageProtector/assets/114223604/67d64462-d163-46a6-a7a0-2855087389d2)
+![GUI](https://github.com/OGD311/ImageProtector/assets/114223604/168e6bc1-ac15-4d88-abac-1362e4a4d6e2)
 
 ## Features
 
