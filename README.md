@@ -23,5 +23,5 @@ Download the exe or the zip (and extract), then run the file - no other dependen
    - Enter the password used for encryption in the provided field.
    - Click the "Decrypt" button to start the decryption process.
 
-:warning: **Warning:** Passwords used for encryption are **not recoverable**. Please ensure to **remember your password**. The developer is **not responsible for any data loss** due to forgotten passwords.
+:warning: **Warning:** Passwords used for encryption are **not recoverable**. Please ensure to **remember your password**. The developer is **not responsible for any data loss** due to forgotten passwords or problems arisen from use of this application.
 
